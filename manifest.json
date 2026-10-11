@@ -1,0 +1,16 @@
+{
+  "name": "KM CHEATS",
+  "short_name": "KM",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.discordapp.com/attachments/1554117378403606568/1558989474757746728/file_00000000d840820e8fe527406cf8d3c4.png?ex=6acd7197&is=6acc2017&hm=22c26e99c9cf5e31099519aeafcb9ffe9be1fe6dc0b0f57c66263edb426515fc&",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
